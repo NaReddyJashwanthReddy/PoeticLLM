@@ -1,0 +1,5 @@
+model : qwen/qwen3-32b
+
+logging:
+  level: INFO
+  file: logs/app.log
